@@ -16,8 +16,8 @@ $ npm test
 
 # Deploy Sale
 
-1. Deploy ShitumSale (using token address as parameter)
-2. Send "totalTokens" tokens to ShitumSale.
+1. Deploy ShirtumSale (using token address as parameter)
+2. Send "totalTokens" tokens to ShirtumSale.
 3. Call start() function.
 
 # Test
